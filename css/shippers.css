@@ -642,9 +642,15 @@ h2 { font: 46px/34px "GothaLight", Verdana; color: #0f5080; padding: 0px; margin
         width: 165px;
         font-size: 14px;
     }   
-    .page_footer .footer_bot{padding:30px 0}
-    .page_footer .footer_bot .page__inner{flex-direction:column;}
-    .page_footer .footer_bot .page__inner .footer_right-block{margin:20px 0 0}
+    .page_footer .footer_bot {
+        padding:30px 0;
+    }
+    .page_footer .footer_bot .page__inner {
+        flex-direction:column;
+    }
+    .page_footer .footer_bot .page__inner .footer_right-block {
+        margin:20px 0 0;
+    }
 }
 
 
